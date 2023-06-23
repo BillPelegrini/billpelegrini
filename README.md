@@ -8,8 +8,8 @@
 </div><br><br>
 
 
-- 🔭 Hoje trabalhando como Data Engineer
-- 🌱 Estudando Python/Pyspark
+- 🔭 Hoje buscando recolocação profissional como DBA/Data Engineer
+- 🌱 Estudando AWS/Terraform/DynamoDB
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato divertido: Fã de pegadinhas do Silvio Santos.
 
