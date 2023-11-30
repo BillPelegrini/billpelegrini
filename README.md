@@ -31,10 +31,10 @@ I am a dedicated professional, always striving to enhance my knowledge and skill
 
 Highlighted Technologies:
 
-Relational Databases: Oracle, SQL Server, MySQL, PostgreSQL
-NoSQL Databases: MongoDB, Redis, Cassandra, DynamoDB
-Cloud: AWS, GCP, Azure, OCI
-Other Technologies: Linux, Windows Server, Docker, Kubernetes, Zabbix, BigQuery, Python, Shell script, PowerShell, Terraform, Dataform, Git/Github
+Relational Databases: Oracle, SQL Server, MySQL, PostgreSQL<br>
+NoSQL Databases: MongoDB, Redis, Cassandra, DynamoDB<br>
+Cloud: AWS, GCP, Azure, OCI<br>
+Other Technologies: Linux, Windows Server, Docker, Kubernetes, Zabbix, BigQuery, Python, Shell script, PowerShell, Terraform, Dataform, Git/Github<br>
 
 <div align="center">
 
