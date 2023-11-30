@@ -1,4 +1,4 @@
-## Olá, eu sou Bruno Pelegrini!
+## Hi, I'm Bruno Pelegrini!
 <br>
 <div> 
  	<a href="https://www.twitch.tv/billpelegrini" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -7,12 +7,35 @@
   <a href="https://twitter.com/L0rdB1LL" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 </div><br><br>
 
+💼 Experienced Database Professional | Expertise in Data Engineering and DevOps 💼
 
-- 🔭 Hoje buscando recolocação profissional como DBA/Data Engineer
-- 🌱 Estudando AWS/Terraform/DynamoDB
-- 😄 Pronomes: Ele/Dele
-- ⚡ Fato divertido: Fã de pegadinhas do Silvio Santos.
+I am a Database Administrator (DBA) with over 10 years of experience, specializing in the management of both relational and non-relational databases. Additionally, I possess robust knowledge in Data Engineering and DevOps practices.
 
+Throughout my career as a DBA, I have honed skills in overseeing databases, ensuring high availability, performance, and data security. Recently, I have expanded my expertise into Data Engineering and DevOps, enhancing my ability to handle large data volumes and implement agile continuous delivery practices.
+
+Key Strengths:
+
+🔹 Administration of relational and non-relational databases;
+🔹 Performance optimization and query tuning;
+🔹 Implementation of backup, recovery, and data migration strategies;
+🔹 Ensuring data security and integrity;
+🔹 Expertise in Data Engineering;
+🔹 Familiarity with DevOps practices and tools.
+
+I am a dedicated professional, always striving to enhance my knowledge and skills.
+
+Highlighted Technologies:
+
+Relational Databases: Oracle, SQL Server, MySQL, PostgreSQL
+NoSQL Databases: MongoDB, Redis, Cassandra, DynamoDB
+Cloud: AWS, GCP, Azure, OCI
+Other Technologies: Linux, Windows Server, Docker, Kubernetes, Zabbix, BigQuery, Python, Shell script, PowerShell, Terraform, Dataform, Git/Github
+
+
+- 🔭 I'm a DBA/DBRE with 10 years of experience.
+- 🌱 Studying AWS/Azure/Terraform/DynamoDB
+- 😄 Pronouns: He/Him
+- ⚡ Funny facts: Fan of internet pranks
 
 <div align="center">
 
