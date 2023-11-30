@@ -15,12 +15,12 @@ Throughout my career as a DBA, I have honed skills in overseeing databases, ensu
 
 Key Strengths:
 
-🔹 Administration of relational and non-relational databases;
-🔹 Performance optimization and query tuning;
-🔹 Implementation of backup, recovery, and data migration strategies;
-🔹 Ensuring data security and integrity;
-🔹 Expertise in Data Engineering;
-🔹 Familiarity with DevOps practices and tools.
+🔹 Administration of relational and non-relational databases;<br>
+🔹 Performance optimization and query tuning;<br>
+🔹 Implementation of backup, recovery, and data migration strategies;<br>
+🔹 Ensuring data security and integrity;<br>
+🔹 Expertise in Data Engineering;<br>
+🔹 Familiarity with DevOps practices and tools.<br>
 
 I am a dedicated professional, always striving to enhance my knowledge and skills.
 
