@@ -7,6 +7,11 @@
   <a href="https://twitter.com/L0rdB1LL" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 </div><br><br>
 
+- 🔭 I'm a DBA/DBRE with 10 over years of experience.
+- 🌱 Studying AWS/Azure/Terraform/DynamoDB
+- 😄 Pronouns: He/Him
+- ⚡ Funny facts: Fan of internet pranks
+
 💼 Experienced Database Professional | Expertise in Data Engineering and DevOps 💼
 
 I am a Database Administrator (DBA) with over 10 years of experience, specializing in the management of both relational and non-relational databases. Additionally, I possess robust knowledge in Data Engineering and DevOps practices.
@@ -30,12 +35,6 @@ Relational Databases: Oracle, SQL Server, MySQL, PostgreSQL
 NoSQL Databases: MongoDB, Redis, Cassandra, DynamoDB
 Cloud: AWS, GCP, Azure, OCI
 Other Technologies: Linux, Windows Server, Docker, Kubernetes, Zabbix, BigQuery, Python, Shell script, PowerShell, Terraform, Dataform, Git/Github
-
-
-- 🔭 I'm a DBA/DBRE with 10 years of experience.
-- 🌱 Studying AWS/Azure/Terraform/DynamoDB
-- 😄 Pronouns: He/Him
-- ⚡ Funny facts: Fan of internet pranks
 
 <div align="center">
 
